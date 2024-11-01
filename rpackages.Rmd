@@ -1,0 +1,21 @@
+---
+title: "R packages"
+---
+
+**DynForest**: Random Forest with Multivariate Longitudinal Predictors 
+
+- Publications
+  * [methodology](https://journals.sagepub.com/doi/abs/10.1177/09622802231206477)
+  * [software]()
+
+- Package
+  * [CRAN](https://cran.r-project.org/web/packages/DynForest) version
+  * [GitHub](https://github.com/anthonydevaux/DynForest) development version
+
+**hdlandmark**: Dynamic Predictions with Multivariate Longitudinal Predictors by Landmark Approach
+
+- Publication
+  - [methodology](https://link.springer.com/article/10.1186/s12874-022-01660-3)
+
+- Package
+  * [GitHub](https://github.com/anthonydevaux/hdlandmark) development version

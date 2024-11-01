@@ -1,8 +1,26 @@
 name: "my-website"
+output_dir: "."
 navbar:
-  title: "My Website"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Publications"
+      icon: fa-scroll
+      href: publications.html
+    - text: "R packages"
+      icon: fa-laptop-code
+      href: rpackages.html
+    - text: "Contact"
+      icon: fa-address-card
+      href: contact.html
+  right:
+    - text: ""
+      icon: fa-github
+      href: https://github.com/anthonydevaux
+    - text: ""
+      icon: fa-linkedin
+      href: https://linkedin.com/in/anthony-devaux-44540b153/
+output:
+  html_document:
+    theme: spacelab

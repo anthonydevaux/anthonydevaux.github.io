@@ -1,0 +1,36 @@
+---
+title: "Publications"
+bibliography: ref.bib
+---
+
+```{r, echo=FALSE}
+biblio <- bibtex::read.bib("ref.bib")
+```
+
+**2024**:
+
+- `r capture.output(print(biblio["hadley2024prophylactic"]))`
+- `r capture.output(print(biblio["adigbli2024patient"]))`
+- `r capture.output(print(biblio["abdul2024prolonged"]))`
+- `r capture.output(print(biblio["bercu2024prediction"]))`
+- `r capture.output(print(biblio["young2024selective"]))`
+
+**2023**:
+
+- `r capture.output(print(biblio["devaux2023random"]))`
+
+**2022**:
+
+- `r capture.output(print(biblio["devaux2022individual"]))`
+
+**2016**:
+
+- `r capture.output(print(biblio["mossong2016human"]))`
+
+**2014**:
+
+- `r capture.output(print(biblio["ragimbeau2014investigating"]))`
+
+**2013**:
+
+- `r capture.output(print(biblio["mossong2013prevalence"]))`
