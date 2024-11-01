@@ -2,28 +2,17 @@
 title: "PhD"
 ---
 
-**Title**:
+```{r, echo=FALSE}
+biblio <- bibtex::read.bib("ref.bib")
+```
+
+**Title**: Dynamic modelling and prediction of health events from multivariate longitudinal data
 
 
 
 **Publication**:
 
+- `r capture.output(print(biblio["devaux2023random"]))`
+- `r capture.output(print(biblio["devaux2022individual"]))`
 
-
-**Conferences**:
-
-
-
-**Thesis**: Dynamic modelling and prediction of health events from multivariate longitudinal data
-
-```{r, echo = FALSE}
-downloadthis::download_link(
-  link = "https://github.com/anthonydevaux/anthonydevaux.github.io/blob/main/documents/anthonydevaux_2022_phd.pdf",
-  button_label = "Download",
-  button_type = "danger",
-  has_icon = TRUE,
-  icon = "fa fa-save",
-  self_contained = FALSE
-)
-```
-
+**Thesis** (in French/English): [download file](files/devaux_phd.pdf)
