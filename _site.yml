@@ -11,6 +11,9 @@ navbar:
     - text: "R packages"
       icon: fa-laptop-code
       href: rpackages.html
+    - text: "PhD"
+      icon: fa-book
+      href: phd.html
     - text: "Contact"
       icon: fa-address-card
       href: contact.html

@@ -1,0 +1,29 @@
+---
+title: "PhD"
+---
+
+**Title**:
+
+
+
+**Publication**:
+
+
+
+**Conferences**:
+
+
+
+**Thesis**: Dynamic modelling and prediction of health events from multivariate longitudinal data
+
+```{r, echo = FALSE}
+downloadthis::download_link(
+  link = "https://github.com/anthonydevaux/anthonydevaux.github.io/documents/anthonydevaux_2022_phd.pdf",
+  button_label = "Download",
+  button_type = "danger",
+  has_icon = TRUE,
+  icon = "fa fa-save",
+  self_contained = FALSE
+)
+```
+
