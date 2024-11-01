@@ -1,18 +1,12 @@
 ---
-title: "PhD"
+title: "PhD - Biostatistics"
 ---
 
-```{r, echo=FALSE}
-biblio <- bibtex::read.bib("ref.bib")
-```
-
-**Title**: Dynamic modelling and prediction of health events from multivariate longitudinal data
-
-
+**Title**: Dynamic modelling and prediction of health events from multivariate longitudinal data (supervised by Cecile Proust-Lima and Robin Genuer)
 
 **Publication**:
 
-- `r capture.output(print(biblio["devaux2023random"]))`
-- `r capture.output(print(biblio["devaux2022individual"]))`
+- **Devaux, A.**, Helmer, C., Genuer, R., and Proust-Lima, C. (2023). Random survival forests with multivariate longitudinal endogenous covariates. *Statistical Methods in Medical Research*, 32(12): 2331-2346. doi: [https://doi.org/10.1177/096228022312064](https://doi.org/10.1177/096228022312064) --  [download](files/devaux_2023.pdf)
+- **Devaux, A.**, Genuer, R., Peres, K., and Proust-Lima, C. (2022). Individual dynamic prediction of clinical endpoint from large dimensional longitudinal biomarker history: a landmark approach. *BMC Medical Research Methodology*, 22(1): 1–14. doi: [https://doi.org/10.1186/s12874-022-01660-3](https://doi.org/10.1186/s12874-022-01660-3) -- [download](files/devaux_2022.pdf)
 
-**Thesis** (in French/English): [download file](files/devaux_phd.pdf)
+**Thesis** (in French/English): [download](files/devaux_phd.pdf)
