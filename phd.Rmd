@@ -18,7 +18,7 @@ title: "PhD"
 
 ```{r, echo = FALSE}
 downloadthis::download_link(
-  link = "https://github.com/anthonydevaux/anthonydevaux.github.io/documents/anthonydevaux_2022_phd.pdf",
+  link = "https://github.com/anthonydevaux/anthonydevaux.github.io/blob/main/documents/anthonydevaux_2022_phd.pdf",
   button_label = "Download",
   button_type = "danger",
   has_icon = TRUE,
